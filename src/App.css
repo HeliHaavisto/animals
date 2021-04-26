@@ -99,3 +99,22 @@ label {
   display: block;
   margin-bottom: -1rem;
 }
+
+.animalCard {
+  width: 300px;
+  height: auto;
+  border-color: grey;
+  border-style: solid;
+  border-width: 1px;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.animalCard img {
+  width: 280px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
